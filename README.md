@@ -32,7 +32,7 @@ I am a Frontend Developer, Python developer and Machine learning engineer <img s
 - 🔭 I’m currently working on Artificial Intelligence and Deep Learning
 - 👯 I’m looking to collaborate on Python projects, AI & DL, ReactJs projects
 - ⚙️: Exploring Maachine learning and building models to solve real-world  problems.
-- ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ⚡: In my free time, I play and read tech articles.
 
 
 ### :hammer_and_wrench: Languages and Tools :
