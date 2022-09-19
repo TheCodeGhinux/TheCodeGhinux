@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://wa.link/na6vc0">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge">
+<!--       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"> -->
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=thecodeghinux&style=flat-square&color=blue" alt=""/>
@@ -25,12 +25,13 @@
 <div align="center">
 </div>
 
-<h2>  👨‍💻 About Me :  </h2>
+<div>
+  <h2>  👨‍💻 About Me :  <p> I am a Frontend Developer, Python developer and Machine learning engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
+  </h2>
 
+  
 
-
-<p> I am a Frontend Developer, Python developer and Machine learning engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
-
+</div>
 
 - 🔭 I’m working and contributing to frontend and backend for building web applications.
 
@@ -85,8 +86,8 @@
     <a href="https://twitter.com/codeghinux">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://wa.link/na6vc0">
+<!--     <a href="https://wa.link/na6vc0">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge">
-    </a>
+    </a> -->
   </div>
 </div>
