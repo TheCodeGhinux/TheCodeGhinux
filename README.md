@@ -17,26 +17,37 @@
   <h1>Hi, there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <br>
-    I'm Ayo, welcome to my Github...
+    I'm Ayomide
 </h1>
 
 
 </div>
 <div align="center">
 </div>
----
-### 👨‍💻: About Me : 
 
-I am a Frontend Developer, Python developer and Machine learning engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🔭: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🔭 I’m currently working on Artificial Intelligence and Deep Learning
+<h2>  👨‍💻 About Me :  </h2>
+
+
+
+<p> I am a Frontend Developer, Python developer and Machine learning engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.</p>
+
+
+- 🔭 I’m working and contributing to frontend and backend for building web applications.
+
+- 💬 Ask me about **Python**
+
+- 🌱 I’m currently learning on Artificial Intelligence and Deep Learning
+
 - 👯 I’m looking to collaborate on Python projects, AI & DL, ReactJs projects
-- ⚙️: Exploring Maachine learning and building models to solve real-world  problems.
-- ⚡: In my free time, I play and read tech articles.
+
+- ⚙️ Exploring Machine learning and building models to solve real-world  problems.
+
+- ⚡ In my free time, I play games and find funny memes.
 
 
-### :hammer_and_wrench: Languages and Tools :
-
+<h2>  :hammer_and_wrench: Languages and Tools : </h2>
+  
+  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -55,15 +66,18 @@ I am a Frontend Developer, Python developer and Machine learning engineer <img s
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
 
 
-### :fire: My Stats :
+
+<h2>  :fire: My Stats : </h2>
+  
+  
 [![TheCodeGhinux's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thecodeghinux&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeghinux&layout=compact&theme=prussian)](https://github.com/thecodeghinux/github-readme-stats)
----
-### 📱: Contact me :
+  
+  
+<h2>  📱: Contact me : </h2>
 <div>
    <a href="https://www.linkedin.com/in/giy/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
