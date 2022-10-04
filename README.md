@@ -75,7 +75,7 @@
   
 [![TheCodeGhinux's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thecodeghinux&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux)](https://github.com/thecodeghinux/github-readme-stats)
+[![TheCodeGhinux's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian)](https://github.com/thecodeghinux/github-readme-stats)
   
   
 <h2>  📱: Contact me : </h2>
