@@ -2,7 +2,7 @@
 
 ### Welcome to my Github
 
-### I am Ayo, The Code Ghinux(Genius)
+### I am Ayo
 
 <!--
 **TheCodeGhinux/TheCodeGhinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
