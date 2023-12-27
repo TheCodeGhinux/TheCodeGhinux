@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Visitors Count
+
+![Visitor Count](https://profile-counter.glitch.me/{Kaperskyguru}/count.svg)
