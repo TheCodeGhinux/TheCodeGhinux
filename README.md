@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 ### Visitors Count
 
-![Visitor Count](https://profile-counter.glitch.me/{Kaperskyguru}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{thecodeghinux}/count.svg)
