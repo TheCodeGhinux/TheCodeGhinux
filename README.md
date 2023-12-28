@@ -25,9 +25,12 @@
 
 <h2>  :fire: My Stats : </h2>
 
-[![TheCodeGhinux's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thecodeghinux&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+<div>
 
-[![TheCodeGhinux's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian)](https://github.com/thecodeghinux/github-readme-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="GitHub Streak" /></a> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian)](https://github.com/thecodeghinux/github-readme-stats)
+</div>
+
 
 <!--
 **TheCodeGhinux/TheCodeGhinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
