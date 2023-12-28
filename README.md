@@ -24,15 +24,18 @@
 
 
 <h2>  :fire: My Stats : </h2>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<div>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="GitHub Streak" /></a> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian)](https://github.com/thecodeghinux/github-readme-stats)
+<div>
+  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="GitHub Streak" /></a>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodeghinux&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="thecodeghinux"/></p>
+  
+  <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350)](https://github.com/thecodeghinux/github-readme-stats)-->
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodeghinux&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="thecodeghinux" /></p>
 
 <!--
 **TheCodeGhinux/TheCodeGhinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
