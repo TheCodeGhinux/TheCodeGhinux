@@ -24,7 +24,8 @@
 
 
 <h2>  :fire: My Stats : </h2>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <div>
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="GitHub Streak" /></a> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
