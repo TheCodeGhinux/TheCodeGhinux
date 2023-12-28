@@ -31,6 +31,7 @@
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian)](https://github.com/thecodeghinux/github-readme-stats)
 </div>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodeghinux&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="thecodeghinux" /></p>
 
 <!--
 **TheCodeGhinux/TheCodeGhinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
