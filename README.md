@@ -7,8 +7,7 @@
 
 - 🔭 I’m working and contributing to frontend and backend for building web applications.
 
-- 🌱 I’m currently learning Artificial Intelligence and Deep Learning
-
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 👯 I’m looking to collaborate on Backend engineering, AI & DL, and ReactJs projects
 
 - ⚡ In my free time, I play games and find funny memes.
