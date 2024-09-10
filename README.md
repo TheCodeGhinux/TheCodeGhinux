@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-### Welcome to my Github
+### Welcome to my GitHub
 
 ### I am Ayo
 
 
 - 🔭 I’m working and contributing to frontend and backend for building web applications.
 
-- 🌱 I’m currently learning on Artificial Intelligence and Deep Learning
+- 🌱 I’m currently learning Artificial Intelligence and Deep Learning
 
 - 👯 I’m looking to collaborate on Backend engineering, AI & DL, and ReactJs projects
 
