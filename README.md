@@ -4,14 +4,13 @@
 
 ### I am Ayo
 
-
 - 🔭 I’m working and contributing to frontend and backend for building web applications.
 
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence
 - 👯 I’m looking to collaborate on Backend engineering, AI & DL, and ReactJs projects
 
 - ⚡ In my free time, I play games and find funny memes.
-- 
+-
 
 <h2>  :hammer_and_wrench: Languages and Tools : </h2>
   
@@ -20,7 +19,6 @@
     <img src="https://skillicons.dev/icons?i=tensorflow,py,js,ts,nodejs,nestjs,express,django,fastapi,postgres" />
   </a>
 </p>
-
 
 <h2>  :fire: My Stats : </h2>
 
@@ -48,9 +46,9 @@ Bash                       15 hrs 55 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img src="https://streak-stats.demolab.com?user=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="GitHub Streak" /></a>
   <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodeghinux&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="thecodeghinux"/></p> -->
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350)](https://github.com/thecodeghinux/github-readme-stats)
+  <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350)](https://github.com/thecodeghinux/github-readme-stats) -->
 
-  [![TheCodeGhinux's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheCodeGhinux&layout=compact&&theme=prussian&langs_count=10)](https://github.com/TheCodeGhinux/github-readme-stats)
+  [![TheCodeGhinux's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheCodeGhinux&layout=compact&&theme=prussian&langs_count=10&display_format=percent)](https://github.com/TheCodeGhinux/github-readme-stats)
 
 </div>
 
