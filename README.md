@@ -43,7 +43,7 @@ JSON               13 hrs 6 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div>
   
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="GitHub Streak" /></a>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodeghinux&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="thecodeghinux"/></p>
+  <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodeghinux&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="thecodeghinux"/></p> -->
   
   <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350)](https://github.com/thecodeghinux/github-readme-stats)-->
 </div>
@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Visitors Count
+<!-- ### Visitors Count -->
 
-![Visitor Count](https://profile-counter.glitch.me/{thecodeghinux}/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{thecodeghinux}/count.svg) -->
