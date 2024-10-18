@@ -48,7 +48,7 @@ Bash                       15 hrs 55 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
   <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350)](https://github.com/thecodeghinux/github-readme-stats) -->
 
-  [![TheCodeGhinux's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheCodeGhinux&layout=compact&&theme=prussian&langs_count=10&display_format=percent)](https://github.com/TheCodeGhinux/github-readme-stats)
+  [![TheCodeGhinux's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheCodeGhinux&layout=compact&&theme=prussian&langs_count=10&display_format=percent&hide_border=true)](https://github.com/TheCodeGhinux/github-readme-stats)
 
 </div>
 
