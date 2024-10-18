@@ -44,12 +44,15 @@ Bash                       15 hrs 55 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div>
   
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="GitHub Streak" /></a>
   <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecodeghinux&show_icons=true&locale=en&layout=compact&theme=prussian&hide_border=true&border_radius=12&card_width=350" alt="thecodeghinux"/></p> -->
   
-  <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350)](https://github.com/thecodeghinux/github-readme-stats)-->
-</div>
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian&hide_border=true&border_radius=12&card_width=350)](https://github.com/thecodeghinux/github-readme-stats)
 
+  [![TheCodeGhinux's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheCodeGhinux&layout=compact&&theme=prussian&langs_count=10)](https://github.com/TheCodeGhinux/github-readme-stats)
+
+</div>
 
 <!--
 **TheCodeGhinux/TheCodeGhinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
