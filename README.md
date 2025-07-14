@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub
 
-### I am Ayo
+### I am tein
 
 - 🔭 I’m working and contributing to frontend and backend for building web applications.
 
